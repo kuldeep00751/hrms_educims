@@ -7,14 +7,11 @@
 </head>
 <body>
     <h1>Hello Everyone</h1>
-<<<<<<< HEAD
     <h1>Welcome to our website</h1>
 
     <h1>Work on our website</h1>
-=======
     <h1>Welcome to our portal</h1>
 
     <h1>I am not ready to start working</h1>
->>>>>>> master
 </body>
 </html>
